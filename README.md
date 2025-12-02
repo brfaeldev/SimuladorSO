@@ -62,7 +62,7 @@ Desenvolver um simulador que modele:
 - 1 Instalar programa: informa nome e tamanho em GB; consome disco e registra MemNec calculada.​
 - 2 Listar Processos: mostra todos os programas instalados, indicando se estão apenas instalados ou carregados na RAM e seu estado atual.
 - 3 Executar programa: informa PID da lista, carrega na RAM se houver espaço e coloca na fila de prontos.​
-– 4/5 Executar 1 ou 5 ticks: avança o clock, simulando CPU, memória e E/S.​
+- 4/5 Executar 1 ou 5 ticks: avança o clock, simulando CPU, memória e E/S.​
 - 6 Status: mostra RAM usada, disco, lista de programas/processos e mapa de molduras.​
 - 7 Encerrar processo: encerra o processo em RAM, liberando memória (arquivo continua instalado).​
 - 8 Desinstalar programa: remove o .exe do disco e o item da lista, se não estiver em execução.
